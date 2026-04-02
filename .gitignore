@@ -1,0 +1,36 @@
+# Node
+node_modules/
+npm-debug.log*
+/frontend/build/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Compiled / artifacts
+dist/
+build/
+
+# Large data / junk
+/junk/
+*.csv
+*.ipynb
+
+# Misc
+*.bak
+*.tmp
